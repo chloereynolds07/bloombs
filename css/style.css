@@ -1,0 +1,42 @@
+* {box-sizing: border-box;}
+
+:root {
+    --prim: #26292e;
+    --sec1: #e7718b;
+    --sec2: #f4f4f6;
+    --tert: #ffffff; 
+    --footer: #26292e;
+    --border-color: #fce3e7;
+    --font1: Twinkle Star; 
+    --btn: #3f3f3f;  
+}
+
+#headerSection {
+    background-color: var(--prim);
+}
+
+
+#section1 {
+    background-color: var(--sec1);
+    padding: 20px 0;
+}
+
+#welcomeBox {
+    border: 1px solid red;
+}
+
+#section2 {
+    background-color: var(--sec2);
+}
+
+#footer {
+    background-color: var(--footer);
+}
+
+.heading {
+    font-family: var(--font1)
+}
+
+.btn-more {
+    background-color: var(--btn);
+}
