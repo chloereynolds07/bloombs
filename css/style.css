@@ -27,6 +27,22 @@
 
 #section2 {
     background-color: var(--sec2);
+    padding: 40px 0;
+}
+
+/* #productsSection {
+    padding: 20px 0;
+} */
+
+#pinkDiv {
+    border: 4px solid var(--border-color);
+}
+
+#block {
+    background-color: #444;
+    border: 13px solid #c4cbdd;
+    padding: 100px;
+    width: 30%;
 }
 
 #footer {
@@ -39,4 +55,17 @@
 
 .btn-more {
     background-color: var(--btn);
+}
+
+.client-list {
+    list-style-type: none;
+}
+
+.clients-text{
+    color: #aaa;
+    padding: 10px 0;
+}
+
+.span-text {
+    color: #333;
 }
