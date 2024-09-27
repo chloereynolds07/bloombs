@@ -21,36 +21,32 @@
     padding: 20px 0;
 }
 
-#welcomeBox {
-    border: 1px solid red;
-}
 
 #section2 {
     background-color: var(--sec2);
     padding: 40px 0;
+    border-bottom: 5px solid var(--border-color);
 }
 
 /* #productsSection {
     padding: 20px 0;
 } */
 
-#pinkDiv {
-    border: 4px solid var(--border-color);
-}
 
 #block {
     background-color: #444;
     border: 13px solid #c4cbdd;
     padding: 100px;
-    width: 30%;
-}
+    width: 72%;
+} 
 
 #footer {
     background-color: var(--footer);
 }
 
 .heading {
-    font-family: var(--font1)
+    font-family: var(--font1); 
+    color:#ffffff;
 }
 
 .btn-more {
